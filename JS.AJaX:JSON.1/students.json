@@ -1,0 +1,108 @@
+[
+    {
+        "id": "1",
+        "fName": "Anders",
+        "lName": "Dall",
+        "email": "anders1603@hotmail.com",
+        "birthday": "16/03 - 76"
+    },
+    {
+        "id": "2",
+        "fName": "Anne-Kathrine Wienberg",
+        "lName": "Hansen",
+        "email": "a.wienberg@hotmail.com",
+        "birthday": "01/02 - 89"
+    },
+    {
+        "id": "3",
+        "fName": "Casper",
+        "lName": "Schmidt",
+        "email": "casperpedersen@hotmail.com",
+        "birthday": "30/10 - 92"
+    },
+    {
+        "id": "4",
+        "fName": "Christian",
+        "lName": "Krag",
+        "email": "christian-krag@live.dk",
+        "birthday": "18/06 - 92"
+    },
+    {
+        "id": "5",
+        "fName": "Christian Kjer",
+        "lName": "Bang",
+        "email": "bangster95@gmail.com",
+        "birthday": "08/08 - 95"
+    },
+    {
+        "id": "6",
+        "fName": "Hanna Rundkvist",
+        "lName": "Nielsen",
+        "email": "hanna-r-n@hotmail.com",
+        "birthday": "16/05 - 96"
+    },
+    {
+        "id": "7",
+        "fName": "Jacob",
+        "lName": "Krag",
+        "email": "jacob.krag@outlook.dk",
+        "birthday": "10/02 - 96"
+    },
+    {
+        "id": "8",
+        "fName": "Jonatan Brødsgaard",
+        "lName": "Shoshan",
+        "email": "jonatan-bd@live.dk",
+        "birthday": "12/04 - 92"
+    },
+    {
+        "id": "9",
+        "fName": "Mads",
+        "lName": "Møller",
+        "email": "mads2097@gmail.com",
+        "birthday": "08/11 - 89"
+    },
+    {
+        "id": "10",
+        "fName": "Rikke Domino",
+        "lName": "Isaksen",
+        "email": "rikkedomino@gmail.com",
+        "birthday": "06/08 - 97"
+    },
+    {
+        "id": "11",
+        "fName": "Rikke Louise",
+        "lName": "Carlsson",
+        "email": "rikke_carlsson@live.dk",
+        "birthday": "06/07 - 91"
+    },
+    {
+        "id": "12",
+        "fName": "Simon",
+        "lName": "Lervad",
+        "email": "lervad1996@gmail.com",
+        "birthday": "07/11 - 96"
+    },
+    {
+        "id": "13",
+        "fName": "Simon Kalmer Riis",
+        "lName": "Mortensen",
+        "email": "simonkalmar@gmail.com",
+        "birthday": "22/08 - 97"
+    },
+    {
+        "id": "14",
+        "fName": "Sune Quvang",
+        "lName": "Iversen",
+        "email": "suneq18@gmail.com",
+        "birthday": "27/10 - 92"
+    },
+    {
+        "id": "16",
+        "fName": "Tinna María",
+        "lName": "Richter",
+        "email": "tinnamrichter@gmail.com",
+        "birthday": "01/09 - 91"
+    }
+
+]
